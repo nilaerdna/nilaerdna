@@ -1,4 +1,5 @@
-## 👋 Welcome! I'm Andrea.
+<h1 align="center">👋 Welcome! I'm Andrea.</h1>
+
 I'm 17, from Italy. I'm currently a student.
 Some of my passions are:
 - 🎮 **Videogames**
