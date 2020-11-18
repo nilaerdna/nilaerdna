@@ -53,4 +53,4 @@ Some of my passions are:
 
 <img align="left" height="150px" alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilaerdna&hide_title=true&show_icons=true&count_private=true&bg_color=151515&title_color=FFFFFF&icon_color=79FE96&text_color=9f9f9f"/>
 
-<img align="left" height="150px" alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilaerdna&layout=compact&bg_color=151515&title_color=FFFFFF&icon_color=79FE96&text_color=9f9f9f&hide=html,css"/>
+<img align="left" height="150px" alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilaerdna&layout=compact&bg_color=151515&title_color=FFFFFF&icon_color=79FE96&text_color=9f9f9f&hide=html,css&hide_title=true"/>
